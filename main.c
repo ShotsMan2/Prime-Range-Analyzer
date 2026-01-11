@@ -46,7 +46,8 @@ int main()
             printf("asal adet:%d",sum);
 
     }
-    else if(s1=s2){
+    else if(s1==s2){
         printf("0\n");
     }
 }
+
